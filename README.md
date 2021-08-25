@@ -15,6 +15,10 @@ I'm a passionate Web Developer and Coding Enthusiast, learning through my experi
 
 Participant at [LGM Summer of Code 21](#) - An Open Source Program.
 
+
+[![Arsh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshWalker&theme=xcode)](https://git.io/ArshWalker)
+
+
 ## 👨‍💻 *Tech Stack I am Familiar With*:
 
 <p align="center">
@@ -33,6 +37,12 @@ Participant at [LGM Summer of Code 21](#) - An Open Source Program.
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
 <br/>
 </p>
+
+<div align="center">
+  
+![Dino](https://raw.githubusercontent.com/ArshWalker/arshwalker/main/dino.gif)
+  
+</div>
 
 ## 🏆 *Github Status*
 
